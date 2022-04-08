@@ -40,7 +40,7 @@ const About = () => {
 
           </div>
 
-          <p>My Name is Rutik Gagare. I'm a Computer Engineering student at D.Y Patil College of Engineering Akurdi, Pune. I'm a developer, geek and curious human beside an Competitive Programming enthusiast. I love to read, listen to music, and travel. 
+          <p>My Name is Rutik Gagare. I'm a Computer Engineering student at D.Y Patil College of Engineering Akurdi, Pune. I'm a developer, geek and curious human beside an Competitive Programming enthusiast. I love to read listen to music, and travel. 
           </p>
 
           <a href="#contact" className='btn btn-primary'>Let's Talk</a>
